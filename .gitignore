@@ -25,3 +25,4 @@ counter_file
 *.log
 
 *.gz
+uv.lock
